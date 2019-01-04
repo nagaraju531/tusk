@@ -3,3 +3,6 @@ Welcome to Telsko chicken
 Kheer
 Pasta
 Chicken
+
+Beans
+Pizza
